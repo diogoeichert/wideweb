@@ -1,6 +1,6 @@
 {
 	"name": "wideweb",
-	"version": "1.4.2",
+	"version": "1.4.3",
 	"description": "All-inclusive web framework for Node.js",
 	"main": "./index.js",
 	"bin": {
