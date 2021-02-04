@@ -27,14 +27,14 @@
 	"homepage": "https://github.com/diogoeichert/wideweb#readme",
 	"dependencies": {
 		"body-parser": "^1.19.0",
-		"cli-boot": "^1.2.5",
+		"cli-boot": "^1.2.6",
 		"express": "^4.17.1",
 		"express-es6-template-engine": "^2.2.3",
 		"package-boot": "^1.6.4",
 		"succinct-router": "^1.1.2"
 	},
 	"devDependencies": {
-		"eslint": "^7.18.0",
+		"eslint": "^7.19.0",
 		"eslint-config-classic": "^0.1.0"
 	}
 }
