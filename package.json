@@ -2,13 +2,13 @@
 	"name": "wideweb",
 	"version": "1.4.3",
 	"description": "All-inclusive web framework for Node.js",
-	"main": "./index.js",
+	"main": "index.js",
 	"bin": {
-		"wideweb": "./cli.js"
+		"wideweb": "cli.js"
 	},
 	"scripts": {
 		"prepublishOnly": "git checkout main && git pull --rebase && npm test && git push && git push --tags",
-		"test": "eslint --fix . && node ./test.js"
+		"test": "eslint --fix . && node test.js"
 	},
 	"repository": {
 		"type": "git",
