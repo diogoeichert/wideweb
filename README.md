@@ -7,7 +7,7 @@
 Micro framework for the web
 
 ## About
-Ahis tool provides a CLI that aims at scaffolding the fundamental structure of a web application and a fast web engine by putting together best in class libraries neatly integrated with minimal glue code and sensible defaults, making it for a lean but resourceful project foundation.
+This tool provides a CLI that aims at scaffolding the fundamental structure of a web application and a fast web engine by putting together best in class libraries neatly integrated with minimal glue code and sensible defaults, making it for a lean but resourceful project foundation.
 
 ## Usage
 ```
