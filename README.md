@@ -1,7 +1,7 @@
 [![code style](https://img.shields.io/badge/code_style-classic-blue.svg)](http://diogoeichert.github.io/eslint-config-classic)
+[![downloads](https://img.shields.io/npm/dt/wideweb.svg)](https://www.npmjs.com/package/wideweb)
 [![license](https://img.shields.io/github/license/diogoeichert/wideweb.svg)](LICENSE)
 [![npm version](https://img.shields.io/npm/v/wideweb.svg)](https://www.npmjs.com/package/wideweb)
-[![downloads](https://img.shields.io/npm/dt/wideweb.svg)](https://www.npmjs.com/package/wideweb)
 
 # wideweb
 Micro framework for the web
